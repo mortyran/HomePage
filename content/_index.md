@@ -57,7 +57,7 @@ sections:
         - name: Perl
           description: 50%
           icon: onion
-          icon_pack: 
+          icon_pack: far
         - name: Linux
           description: 80%
           icon: ubuntu
