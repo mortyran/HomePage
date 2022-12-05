@@ -1,1 +1,1 @@
-<p align="center"><a href="www.mortyran.cn" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/mortyran/HomePage/main/logo.png" alt="Mortyran's Homepage"></a></p>
+<p align="center"><img src="https://raw.githubusercontent.com/mortyran/HomePage/main/logo.png"></p>
