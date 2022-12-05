@@ -56,7 +56,7 @@ sections:
           icon_pack: fab
         - name: Perl
           description: 50%
-          icon: org-gc
+          icon: org-y
           icon_pack: custom
         - name: Linux
           description: 80%
