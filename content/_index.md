@@ -56,8 +56,8 @@ sections:
           icon_pack: fab
         - name: Perl
           description: 50%
-          icon: org-y
-          icon_pack: custom
+          icon: onion
+          icon_pack: far
         - name: Linux
           description: 80%
           icon: ubuntu
