@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2022-12-05
 type: landing
 
 sections:
@@ -50,14 +50,18 @@ sections:
           description: 90%
           icon: r-project
           icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
-          icon_pack: fas
-        - name: Photography
-          description: 10%
+        - name: Python
+          description: 65%
+          icon: python
+          icon_pack: fab
+        - name: Perl
+          description: 50%
           icon: camera-retro
           icon_pack: fas
+        - name: Linux
+          description: 80%
+          icon: ubuntu
+          icon_pack: fab
   - block: experience
     content:
       title: Experience
