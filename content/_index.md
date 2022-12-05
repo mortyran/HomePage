@@ -56,12 +56,13 @@ sections:
           icon_pack: fab
         - name: Perl
           description: 50%
-          icon: camera-retro
+          icon: onion
           icon_pack: fas
         - name: Linux
           description: 80%
           icon: ubuntu
           icon_pack: fab
+
   - block: experience
     content:
       title: Experience
