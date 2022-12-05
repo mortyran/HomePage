@@ -57,6 +57,7 @@ sections:
         - name: Perl
           description: 50%
           icon: org-gc
+          icon_pack: custom
         - name: Linux
           description: 80%
           icon: ubuntu
