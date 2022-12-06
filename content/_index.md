@@ -75,34 +75,34 @@ sections:
       title: Experience
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
+      date_format: Dec 2022
       # Experiences.
       #   Add/remove as many `experience` items below as you like.
       #   Required fields are `title`, `company`, and `date_start`.
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+        - title: Bioinformatics Engineer
+          company: Shuzhi Biotech, LLC
+          company_url: 'http://www.databio1.com/'
+          company_logo: shuzhi
+          location: Guangzhou, Guangdong, China 
+          date_start: '2022-03-14'
           date_end: ''
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+              * Analysis of single-cell data including scRNA-seq, scATAC-seq and etc
+              * Cloud Deployment Process
+              * Lectures on proteomics and metabolomics data analysis
+        - title: Undergraduate of college of bioinformatics science and technology
+          company: Harbin Medical University
+          company_url: 'https://www.hrbmu.edu.cn/'
+          company_logo: hrbmu_logo
+          location: Harbin Heilongjiang, China
+          date_start: '2018-09-01'
+          date_end: ''
+          description: Studying for a bachelor's degree at Harbin Medical University, majoring in bioinformatics.
     design:
       columns: '2'
   # - block: accomplishments
