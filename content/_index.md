@@ -62,6 +62,10 @@ sections:
           description: 80%
           icon: ubuntu
           icon_pack: fab
+        - name: Inkscape / Adobe Illustrator
+          description: 85%
+          icon: chart-line
+          icon_pack: fas
 
   - block: experience
     content:
