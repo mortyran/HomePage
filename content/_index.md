@@ -62,8 +62,6 @@ sections:
           description: 80%
           icon: ubuntu
           icon_pack: fab
-    design:
-      columns: '2'
 
   - block: experience
     content:
