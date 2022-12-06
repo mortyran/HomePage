@@ -67,7 +67,7 @@ sections:
           icon: chart-line
           icon_pack: fas
         - name: Java / Matlab / C++ / MySQL
-          description: 5%
+          description: 10%
           icon: other_skills
           icon_pack: custom
   - block: experience
