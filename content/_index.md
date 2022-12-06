@@ -62,12 +62,12 @@ sections:
           description: 80%
           icon: ubuntu
           icon_pack: fab
-        - name: Inkscape / Adobe Illustrator
+        - name: Inkscape / AI
           description: 85%
           icon: chart-line
           icon_pack: fas
         - name: Java / Matlab / C++ / MySQL
-          description: 10%
+          description: 20%
           icon: other_skills
           icon_pack: custom
   - block: experience
