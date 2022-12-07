@@ -1,7 +1,6 @@
 ---
-title: "Multiplex-Heterogeneous Network-Based Capturing Potential SNP “Switches” of Pathways Associating With Diverse Disease Characteristics of Asthma"
-authors:
-- '**Ming-Yu Ran[^*]**'
+title: "Multiplex-Heterogeneous Network-Based Capturing Potential SNP “Switches” of Pathways Associating With Diverse Disease Characteristics of Asthma<br>"
+authors: ["**Ming-Yu Ran[^*]**"]
 - Zhang Yuan
 - Chui-Ting Fan
 - Zhou Ke
