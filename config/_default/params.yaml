@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
-  font: minimal
+  theme_day: forest
+  theme_night: forest
+  font: forest
   font_size: L
 
 # SEO
@@ -129,9 +129,9 @@ security:
 #     # Text color (true=light, false=dark, or remove for the dynamic theme color).
 #     text_color_light: true
 
-design:
-  background:
-    # Choose a color such as from https://html-color-codes.info
-    color: '#90EE90'
-    # Text color (true=light, false=dark, or remove for the dynamic theme color). 
-    text_color_light: true
+# design:
+#   background:
+#     # Choose a color such as from https://html-color-codes.info
+#     color: '#90EE90'
+#     # Text color (true=light, false=dark, or remove for the dynamic theme color). 
+#     text_color_light: true
