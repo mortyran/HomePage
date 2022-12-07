@@ -36,7 +36,7 @@ tags:
 # - Source Themes
 # - : bioinformatics
 # - : asthma
-# - : ceRNA network
+# - : ceRNA regulatory network
 # - : pathway enrichment analysis
 # - : SNPs
 featured: false
