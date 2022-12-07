@@ -107,9 +107,9 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Analysis of single-cell data including scRNA-seq, scATAC-seq and etc
-              * Cloud deployment process
-              * Lectures on bioinformatics analysis of proteomics and metabolomics data
+              * Analysing single-cell data including scRNA-seq, scATAC-seq and etc
+              * Cloud deployment processing
+              * Lecturing on bioinformatics analysis of proteomics and metabolomics data
         - title: Undergraduate of college of bioinformatics science and technology
           company: Harbin Medical University
           company_url: 'https://www.hrbmu.edu.cn/'
