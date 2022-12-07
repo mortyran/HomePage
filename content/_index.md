@@ -75,7 +75,7 @@ sections:
       title: Experience
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
-      date_format: January 2, 2006
+      date_format: Jan 2006
       # Experiences.
       #   Add/remove as many `experience` items below as you like.
       #   Required fields are `title`, `company`, and `date_start`.
@@ -87,7 +87,7 @@ sections:
           company_url: 'http://www.databio1.com/'
           company_logo: shuzhi
           location: Guangzhou, Guangdong, China 
-          date_start: 'March 15, 2022'
+          date_start: '2022-03-14'
           date_end: ''
           description: |2-
               Responsibilities include:
@@ -100,7 +100,7 @@ sections:
           company_url: 'https://www.hrbmu.edu.cn/'
           company_logo: hrbmu_logo
           location: Harbin Heilongjiang, China
-          date_start: 'September 1, 2018'
+          date_start: '2018-09-01'
           date_end: ''
           description: Studying for a bachelor's degree at Harbin Medical University, majoring in bioinformatics.
     design:
