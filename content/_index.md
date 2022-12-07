@@ -266,8 +266,8 @@ sections:
     content:
       title: Contact
       subtitle:
-      text: |-
-        ''
+      # text: |-
+      #  ''
       # Contact (add or remove contact options as necessary)
       email: rmyhandsome@163.com
       phone: +86 18623120756
@@ -286,8 +286,12 @@ sections:
       contact_links:
        - icon: twitter
          icon_pack: fab
-         name: DM Me
+         name: MortyRan
          link: 'https://twitter.com/MortyRan'
+       - icon: weixin
+         icon_pack: fab
+         name: rmyhandsome
+         # link: 'https://twitter.com/MortyRan'
       #  - icon: skype
       #    icon_pack: fab
       #    name: Skype Me
