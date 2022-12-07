@@ -85,7 +85,7 @@ sections:
         - title: Bioinformatics Engineer
           company: Shuzhi Biotech, LLC
           company_url: 'http://www.databio1.com/'
-          company_logo: shuzhi
+          company_logo: shuzhi_logo
           location: Guangzhou, Guangdong, China 
           date_start: '2022-03-14'
           date_end: ''
@@ -99,7 +99,7 @@ sections:
           company: Harbin Medical University
           company_url: 'https://www.hrbmu.edu.cn/'
           company_logo: hrbmu_logo
-          location: Harbin Heilongjiang, China
+          location: Harbin, Heilongjiang, China
           date_start: '2018-09-01'
           date_end: ''
           description: Studying for a bachelor's degree at Harbin Medical University, majoring in bioinformatics.
