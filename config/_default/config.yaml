@@ -73,3 +73,19 @@ sitemap:
   _merge: deep
 minify:
   _merge: deep
+
+build:
+   command: hugo --gc --minify -b $URL
+   commandOrigin: config
+   environment:
+       - HUGO_VERSION
+       - HUGO_ENABLEGITINFO
+       - HUGO_ENV
+   publish: /opt/build/repo/public
+   publishOrigin: config
+
+plugins:
+  - inputs:
+      debug: true
+    origin: config
+    package: netlify-plugin-hugo-cache-resources
