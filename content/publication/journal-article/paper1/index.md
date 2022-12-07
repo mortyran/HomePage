@@ -34,7 +34,7 @@ summary: This manuscript addresses systematically exploring the functional role 
 
 tags:
 # - Source Themes
-- : bioinformatics
+# - : bioinformatics
 # - : asthma
 # - : ceRNA network
 # - : pathway enrichment analysis
