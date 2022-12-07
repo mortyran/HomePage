@@ -61,7 +61,7 @@ locale:
 
 features:
   syntax_highlighter:
-    theme_light: github-light
+    theme_lighttheme_light: github-light
     theme_dark: dracula
   math:
     enable: false
@@ -112,3 +112,19 @@ extensions:
 security:
   # Allow frame for embedding speaker notes in slides
   allow_frame: true
+
+# Background
+design:
+  background:
+    # Name of image in `assets/media/`.
+    image: background.webp
+    # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+    image_darken: 0.6
+    #  Options are `cover` (default), `contain`, or `actual` size.
+    image_size: cover
+    # Options include `left`, `center` (default), or `right`.
+    image_position: center
+    # Use a fun parallax-like fixed background effect on desktop? true/false
+    image_parallax: true
+    # Text color (true=light, false=dark, or remove for the dynamic theme color).
+    text_color_light: true
