@@ -259,9 +259,14 @@ sections:
   - block: tag_cloud
     content:
       title: Popular Topics
-      text: 'bioinformatics'
+      text: 
+      - : bioinformatics
+      - : asthma
+      - : ceRNA network
+      - : pathway enrichment analysis
+      - : SNPs
       # Choose a taxonomy from the `taxonomies` list in `config.yaml` to display (e.g. tags, categories, authors)
-      taxonomy: tags
+      # taxonomy: tags
       # count: 20
     design:
       columns: '2'
