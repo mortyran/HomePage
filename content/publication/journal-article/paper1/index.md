@@ -1,7 +1,13 @@
 ---
-title: "Multiplex-Heterogeneous Network-Based Capturing Potential SNP “Switches” of Pathways Associating With Diverse Disease Characteristics of Asthma<br>"
-authors: ["**Ming-Yu Ran[^*]**", Zhang Yuan]
-
+title: "Multiplex-Heterogeneous Network-Based Capturing Potential SNP “Switches” of Pathways Associating With Diverse Disease Characteristics of Asthma<br />"
+authors:
+- Ming-Yu Ran
+- Zhang Yuan
+- Chui-Ting Fan
+- Zhou Ke
+- Xin-Xing Wang
+- Jia-Yuan Sun
+- Dong-Ju Su
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
@@ -18,7 +24,7 @@ publishDate: "2021-11-14T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Frontiers in Cell and Developmental Biology&emsp;IF:6.684&emsp;JCR Q1&emsp;1/7"
+publication: "_Frontiers in Cell and Developmental Biology&emsp;IF:6.684&emsp;JCR Q1&emsp;1/7_"
 publication_short: ""
 
 abstract: Asthma is a complex heterogeneous respiratory disorder. In recent years nubbly regions of the role of genetic variants and transcriptome including mRNAs, microRNAs, and long non-coding RNAs in the pathogenesis of asthma have been separately excavated and reported. However, how to systematically integrate and decode this scattered information remains unclear. Further exploration would improve understanding of the internal communication of asthma. To excavate new insights into the pathogenesis of asthma, we ascertained three asthma characteristics according to reviews, airway inflammation, airway hyperresponsiveness, and airway remodeling. We manually created a contemporary catalog of corresponding risk transcriptome, including mRNAs, miRNAs, and lncRNAs. MIMP is a multiplex-heterogeneous networks-based approach, measuring the relevance of disease characteristics to the pathway by examining the similarity between the determined vectors of risk transcriptome and pathways in the same low-dimensional vector space. It was developed to enable a more concentrated and in-depth exploration of potential pathways. We integrated experimentally validated competing endogenous RNA regulatory information and the SNPs with significant pathways into the ceRNA-mediated SNP switching pathway network (CSSPN) to analyze ceRNA regulation of pathways and the role of SNP in these dysfunctions. We discovered 11 crucial ceRNA regulations concerning asthma disease feature pathway and propose a potential mechanism of ceRNA regulatory SNP → gene → pathway → disease feature effecting asthma pathogenesis, especially for MALAT1 (rs765499057/rs764699354/rs189435941) → hsa-miR-155 → IL13 (rs201185816/rs1000978586/rs202101165) → Interleukin-4 and Interleukin-13 signaling → inflammation/airway remodeling and MALAT1 (rs765499057/ rs764699354/rs189435941) → hsa-miR-155 → IL17RB (rs948046241) → Interleukin-17 signaling (airway remodeling)/Cytokine-cytokine receptor interaction (inflammation). This study showed a systematic and propagable workflow for capturing the potential SNP “switch” of asthma through text and database mining and provides further information on the pathogenesis of asthma.

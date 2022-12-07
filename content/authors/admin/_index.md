@@ -3,7 +3,7 @@
 title: Morty Ran 冉茗予
 
 # Full name (for SEO)
-first_name: Morty
+first_name: Ming-Yu
 last_name: Ran
 
 # Status emoji
