@@ -259,8 +259,9 @@ sections:
   - block: tag_cloud
     content:
       title: Popular Topics
-      # # Choose a taxonomy from the `taxonomies` list in `config.yaml` to display (e.g. tags, categories, authors)
-      # taxonomy: tags
+      text: 'bioinformatics'
+      # Choose a taxonomy from the `taxonomies` list in `config.yaml` to display (e.g. tags, categories, authors)
+      taxonomy: tags
       # count: 20
     design:
       columns: '2'
