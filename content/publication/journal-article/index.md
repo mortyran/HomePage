@@ -43,7 +43,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://fjfsdata01prod.blob.core.windows.net/articles/files/744932/pubmed-zip/.versions/1/.package-entries/fcell-09-744932/fcell-09-744932.pdf?sv=2018-03-28&sr=b&sig=Lh%2BdOh0DAM3ImSaSYSaIojL9qWhPsyzvXJ01y5L2a6Y%3D&se=2022-12-07T04%3A43%3A51Z&sp=r&rscd=attachment%3B%20filename%2A%3DUTF-8%27%27fcell-09-744932.pdf
+url_pdf: 'https://fjfsdata01prod.blob.core.windows.net/articles/files/744932/pubmed-zip/.versions/1/.package-entries/fcell-09-744932/fcell-09-744932.pdf?sv=2018-03-28&sr=b&sig=Lh%2BdOh0DAM3ImSaSYSaIojL9qWhPsyzvXJ01y5L2a6Y%3D&se=2022-12-07T04%3A43%3A51Z&sp=r&rscd=attachment%3B%20filename%2A%3DUTF-8%27%27fcell-09-744932.pdf'
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
