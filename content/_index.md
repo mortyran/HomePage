@@ -102,7 +102,7 @@ sections:
           location: Harbin, Heilongjiang, China
           date_start: '2018-09-01'
           date_end: ''
-          description: Studying for a bachelor's degree in science at Harbin Medical University, majoring in bioinformatics.
+          description: Studying for a bachelor's degree of science at Harbin Medical University, majoring in bioinformatics.
     design:
       columns: '2'
   # - block: accomplishments
