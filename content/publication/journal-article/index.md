@@ -33,11 +33,11 @@ abstract: Asthma is a complex heterogeneous respiratory disorder. In recent year
 summary: This manuscript addresses systematically exploring the functional role of SNP in the pathogenesis of asthma based on a novel method called MIMP.
 
 tags:
-# - : bioinformatics
-# - : asthma
-# - : ceRNA network
-# - : pathway enrichment analysis
-# - : SNPs
+- : bioinformatics
+- : asthma
+- : ceRNA network
+- : pathway enrichment analysis
+- : SNPs
 featured: false
 
 # links:
@@ -55,7 +55,7 @@ url_pdf: 'https://fjfsdata01prod.blob.core.windows.net/articles/files/744932/pub
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
   preview_only: false
 
@@ -78,8 +78,8 @@ image:
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
+{{% /callout %}} -->
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+Supplementary notes can be downloaded [here](https://www.frontiersin.org/articles/10.3389/fcell.2021.744932/full#supplementary-material).
