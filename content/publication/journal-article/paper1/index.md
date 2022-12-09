@@ -39,7 +39,7 @@ tags:
   - Pathway Enrichment
   - SNPs
   - Algorithm
-featured: true
+featured: false
 
 # links:
 # - name: ""
