@@ -33,13 +33,12 @@ abstract: Asthma is a complex heterogeneous respiratory disorder. In recent year
 summary: This manuscript addresses systematically exploring the functional role of SNP in the pathogenesis of asthma based on a novel method called MIMP.
 
 tags:
-  - Bioinformatics
   - Asthma
   - ceRNA Regulatory Network
   - Pathway Enrichment
   - SNPs
   - Algorithm
-featured: false
+featured: true
 
 # links:
 # - name: ""
