@@ -245,7 +245,7 @@ sections:
         exclude_featured: false
     design:
       columns: '2'
-      view: List
+      view: Citation
   # - block: collection
   #  id: talks
   #  content:
