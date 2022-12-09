@@ -37,7 +37,7 @@ tags:
   - ceRNA Regulatory Network
   - Pathway Enrichment
   - SNPs
-  - Algorithm
+  - Machine Learning
 featured: true
 
 # links:
