@@ -28,7 +28,7 @@ tags:
   - Heterogeneous Network
   - SNPs
   - Machine Learning
-featured: true
+featured: false
 
 links:
  - name: Tutorial
