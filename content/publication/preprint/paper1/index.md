@@ -26,9 +26,7 @@ summary:
 
 tags:
   - Heterogeneous Network
-  - Pathway Enrichment
   - SNPs
-  - Algorithm
   - Machine Learning
 featured: false
 
