@@ -1,7 +1,7 @@
 ---
 title: "Multiplex-Heterogeneous Network-Based Capturing Potential SNP 'Switches' of Pathways Associating With Diverse Disease Characteristics of Asthma"
 authors:
-  - "Ming-Yu Ran*"
+  - Ming-Yu Ran*
   - Zhang Yuan
   - Chui-Ting Fan
   - Zhou Ke
@@ -11,7 +11,7 @@ authors:
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
-date: "2021-11-14T00:00:00Z"
+date: "2022-12-07T00:00:00Z"
 doi: "10.3389/fcell.2021.744932"
 
 # Schedule page publish date (NOT publication's date).
@@ -33,12 +33,12 @@ abstract: Asthma is a complex heterogeneous respiratory disorder. In recent year
 summary: This manuscript addresses systematically exploring the functional role of SNP in the pathogenesis of asthma based on a novel method called MIMP.
 
 tags:
-  - bioinformatics
-  - asthma
-  - ceRNA regulatory network
-  - pathway enrichment
+  - Bioinformatics
+  - Asthma
+  - ceRNA Regulatory Network
+  - Pathway Enrichment
   - SNPs
-  - algorithm
+  - Algorithm
 featured: true
 
 # links:
