@@ -1,0 +1,11 @@
+.svg-icon {
+  display: inline-flex;
+  align-self: center;
+  height: 2em;
+  width: 2em;
+}
+.svg-icon.svg-baseline {
+  bottom: 0.1em;
+  line-height: 1;
+  position: relative;
+}
