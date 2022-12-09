@@ -85,6 +85,8 @@ sections:
           description: 20%
           icon: other_skills
           icon_pack: custom
+    design:
+      columns: '4'
   - block: experience
     content:
       title: Experience
