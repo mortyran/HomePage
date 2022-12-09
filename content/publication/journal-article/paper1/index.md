@@ -38,6 +38,7 @@ tags:
   - Pathway Enrichment
   - SNPs
   - Machine Learning
+  - Network Science
 featured: true
 
 # links:
