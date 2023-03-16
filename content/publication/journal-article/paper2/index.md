@@ -8,11 +8,11 @@ authors:
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
-date: "2022-12-08T21:12:00Z"
+date: "2022-2-14T00:00:00Z"
 doi: 10.3389/fendo.2023.1110987
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-10-08T00:00:00Z"
+publishDate: "2022-2-27T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -27,20 +27,17 @@ publication_short: ""
 abstract: The cell cycle plays a vital role in tumorigenesis and progression. Long non-coding RNAs (lncRNAs) are key regulators of cell cycle processes. Therefore, understanding cell cycle–related lncRNAs (CCR-lncRNAs) is crucial for determining the prognosis of papillary thyroid carcinoma (PTC). RNA-seq and clinical data of PTC were acquired from The Cancer Genome Atlas, and CCR-lncRNAs were selected based on Pearson’s correlation coefficients. According to univariate Cox regression, least absolute shrinkage and selection operator (LASSO), and multivariate Cox regression analyses, a five-CCR-lncRNA signature (FOXD2-AS1, LOC100507156, BSG-AS1, EGOT, and TMEM105) was established to predict the progression-free interval (PFI) in PTC. Kaplan–Meier survival, time-dependent receiver operating characteristic curve, and multivariate Cox regression analyses proved that the signature had a reliable prognostic capability. A nomogram consisting of the risk signature and clinical characteristics was constructed that effectively predicted the PFI in PTC. Functional enrichment analyses indicted that the signature was involved in cell cycle– and immune-related pathways. Furthermore, we also analyzed the correlation between the signature and immune cell infiltration. Finally, we verified the differential expression of CCR-lncRNAs in vitro using quantitative real-time polymerase chain reaction. Overall, the newly developed prognostic risk signature based on five CCR-lncRNAs may become a marker for predicting the PFI in PTC.
 
 # Summary. An optional shortened abstract.
-summary: The newly developed prognostic risk signature based on five CCR-lncRNAs may become a marker for predicting the PFI in PTC .
+summary: We developed a risk signature based on five CCR-lncRNAs for predicting the PFI in PTC and explored its biological functions.
 
 tags:
-  - papillary thyroid carcinoma
-  - cell cycle
   - long non-coding RNA
-  - progression-free interval
   - prognostic signature
 featured: true
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://www.frontiersin.org/articles/10.3389/fendo.2023.1110987/pdf'
+url_pdf: 'https://www.frontiersin.org/articles/10.3389/fcell.2021.744932/full'
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
