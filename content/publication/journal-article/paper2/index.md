@@ -30,8 +30,8 @@ abstract: The cell cycle plays a vital role in tumorigenesis and progression. Lo
 summary: We developed a risk signature based on five CCR-lncRNAs for predicting the PFI in PTC and explored its biological functions.
 
 tags:
-  - long non-coding RNA
-  - prognostic signature
+  - Long non-coding RNA
+  - Prognostic Signature
 featured: true
 
 # links:
