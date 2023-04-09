@@ -16,7 +16,7 @@ publishDate: "2022-10-08T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*bioRxiv&emsp;1/2*"
+publication: "*bioRxiv*"
 publication_short: ""
 
 abstract: Numerous independent networks of regulatory elements, including lncRNA, circRNA and pathway, have been developed to crucial roles in computational systems biology. Crosstalks among those networks as a bridge to build and decode heterogeneous networks from multidimensional biological knowledge, aids to highlight regulatory elements. And combinations of regulatory elements (CREs) in the local area of heterogeneous network have been a hot issue due to its crucial role in biological processes. We introduce NetLCP, an R package with command and shiny-based GUI modes, for prioritizing CREs with variant 'switches' detection.
